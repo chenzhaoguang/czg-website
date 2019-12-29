@@ -1,6 +1,6 @@
 # 博客前台
 
-项目地址: [https://github.com/czg/czg-website](https://github.com/czg/czg-website)
+项目地址: [https://github.com/chenzhaoguang/czg-website](https://github.com/chenzhaoguang/czg-website)
 
 如果你觉得项目不错的话，欢迎点击右上角 'star' 支持下，万分感谢! ~\(≧▽≦)/~
 
@@ -27,7 +27,7 @@
 
 博客的后端是使用 Node.js 开发的，是基于 koa 并采用了 Restful API 架构实现的，完美实现前后端的分离，后端只需要负责提供数据，而路由的跳转、数据渲染都是由前端实现。
 
-项目地址: [https://github.com/czg/czg-website-server](https://github.com/czg/czg-website-server)
+项目地址: [https://github.com/chenzhaoguang/czg-website-server](https://github.com/chenzhaoguang/czg-website-server)
 
 ## 实现的功能
 
